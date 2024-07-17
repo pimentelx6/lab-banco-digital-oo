@@ -1,0 +1,7 @@
+1721130530842	Delete element
+1721130978541	Rename type 'Class'
+1721134993288	Encapsulate field 'agencia'
+1721135009621	Encapsulate field 'saldo'
+1721135035752	Encapsulate field 'numero'
+1721135182765	Encapsulate field 'nome'
+1721153632502	Extract method 'imprimirInfosComuns'
